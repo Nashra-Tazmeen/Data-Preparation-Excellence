@@ -18,7 +18,7 @@ In the era of data-driven decision-making, the quality of your data and the meth
 
 **Methodology:**
 
-Our project takes a hands-on approach, providing step-by-step tutorials, code examples, and practical insights into data preparation techniques. We leverage popular data science libraries and tools to implement these methods effectively.
+This project takes a hands-on approach and practical insights into data preparation techniques by leverage popular data science libraries and tools to implement these methods effectively.
 
 **Key Takeaways:**
 
